@@ -1,0 +1,30 @@
+{
+  "name": "Bola",
+  "short_name": "Dunia Bola",
+  "description": "Aplikasi PWA news Reader",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#00897B",
+  "theme_color": "#00897B",
+  "orientation": "portrait-primary",
+  "icons": [
+      {
+          "src": "icon.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      },
+      {
+          "src": "icon (1).png",
+          "sizes": "384x384",
+          "type": "image/png"
+      },
+      {
+          "src": "icon (2).png",
+          "sizes": "192x192",
+          "type": "image/png"
+      }
+  ],
+  
+    "gcm_sender_id": "1087400269409"
+  
+}
